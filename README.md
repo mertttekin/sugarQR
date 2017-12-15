@@ -1,0 +1,3 @@
+# sugarQR
+
+The readMe for this great and mysterious app, will be here soon...
